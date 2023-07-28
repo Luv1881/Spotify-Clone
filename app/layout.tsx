@@ -6,7 +6,7 @@ const font = Figtree({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Spotify',
   description:
-    '🎵🎧git add . Spotify clone created by ajfm88 using Next.js 13, Tailwind CSS and TypeScript. 🔊🎶',
+    '🎵🎧Spotify clone created by ajfm88 using Next.js 13, Tailwind CSS and TypeScript. 🔊🎶',
 };
 
 export default function RootLayout({
