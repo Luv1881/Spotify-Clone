@@ -2,13 +2,21 @@
 
 ![Full Stack Spotify Clone with Next.js 13](https://user-images.githubusercontent.com/23248726/241812095-2722c7bd-2d8f-44a9-97b9-f2711a8d8b64.png)
 
-For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
-
 This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe.
 
 ## Live Demo
 
 - [Spotify Clone](https://spotify-ajfm88.vercel.app)
+
+## Demo Info
+
+When testing the app, it will ask for a Spotify Premium subscription (after being logged in with your email). Please use a card number, such as 4242 4242 4242 4242. Enter the card number in the Dashboard or in any payment form.
+
+- Use a valid future date, such as 12/34.
+- Use any three-digit CVC (four digits for American Express cards).
+- Use any value you like for other form fields.
+
+For more info: [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 ## Features
 
