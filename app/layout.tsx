@@ -14,7 +14,7 @@ import './globals.css';
 const font = Figtree({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Spotify',
+  title: 'Spotify Clone',
   description:
     '🎵🎧Spotify clone created by ajfm88 using Next.js 13, Tailwind CSS and TypeScript. 🔊🎶',
 };

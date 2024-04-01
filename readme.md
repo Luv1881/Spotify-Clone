@@ -10,7 +10,13 @@ This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router
 
 ## Demo Info
 
-When testing the app, it will ask for a Spotify Premium subscription (after being logged in with your email). Please use a card number, such as 4242 4242 4242 4242. Enter the card number in the Dashboard or in any payment form.
+When testing the app, feel free to sign up with your own email or you can also use this test account:
+
+Email: tebever947@storesr.com
+
+Password: test1234
+
+Also, it will ask for a Spotify Premium subscription (after being logged in). Please use a card number, such as 4242 4242 4242 4242. Enter the card number in the Dashboard or in any payment form.
 
 - Use a valid future date, such as 12/34.
 - Use any three-digit CVC (four digits for American Express cards).
