@@ -1,16 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+// next.config.js
+module.exports = {
   images: {
-    domains: [
-      'misc.scdn.co',
-      'i.scdn.co',
-      'geo-media.beatsource.com',
-      'i1.sndcdn.com',
-      'media.pitchfork.com',
-      'seed-mix-image.spotifycdn.com',
-      'odofdqdzdcexavpydvyh.supabase.co',
-    ],
+    domains: ['qynbkvzuhbmbqifavrds.supabase.co'],
   },
-};
-
-module.exports = nextConfig;
+}
